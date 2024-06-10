@@ -1,2 +1,2 @@
 # portfolio
-https://aarushi-shanker.github.io/portfolio/
+https://aarushi-shanker.github.io/aarushi-portfolio/
